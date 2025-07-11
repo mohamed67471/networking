@@ -21,7 +21,10 @@ This project demonstrates how to deploy an NGINX web server on AWS EC2 and conne
 6. Verified web server is accessible via domain
 
 ## 📂 File Descriptions
-- `commands.sh` — All terminal commands used
+- ## File Descriptions
+
+- [commands.sh](commands.sh) — All terminal commands used
+
 
 
 ## 📸 Screenshot
